@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Marlone 👋
 
-<!--
-**marl0ne/marl0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+* Beginner Python developer
+* Learning by building real projects
+* Interested in software development and tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+* Python (Basics)
+* Problem Solving
+* Logic Building
+
+## 📂 Projects
+
+* 🎯 Number Guessing Game
+
+## 📈 Currently Learning
+
+* More Python projects
+* Improving coding skills
+* Preparing for internships
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/YOUR-USERNAME
