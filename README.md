@@ -15,6 +15,7 @@
 ##  Projects
 
 -  [Number Guessing Game](https://github.com/marl0ne/number-guessing-game)
+-  [Password Generator](https://github.com/marl0ne/password-generator)
 
 ##  Currently Learning
 
